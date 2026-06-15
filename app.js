@@ -1,4 +1,3 @@
-
 const products = [
   { id:1,  name:'Seminar Kit SS-11 Premium',       category:'seminar',     price:'Rp 111.500', oldPrice:'Rp 149.000', badge:'sale',  stars:4.8, reviews:234,  emoji:'📋', minOrder:'10 pcs' },
   { id:2,  name:'Tumbler Vacuum Flask TC-208',      category:'drinkware',   price:'Rp 76.700',  oldPrice:'',           badge:'best',  stars:4.9, reviews:512,  emoji:'☕', minOrder:'20 pcs' },
