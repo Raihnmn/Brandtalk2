@@ -69,6 +69,8 @@ function renderProducts() {
   if (btn) {
     btn.style.display = visibleCount >= filtered.length ? 'none' : 'inline-flex';
   }
+  const newProductCards = grid.querySelectorAll('.product-card');
+  newProductCards.forEach(card => observer.observe(card));
 }
 
 function getCategoryLabel(cat) {
