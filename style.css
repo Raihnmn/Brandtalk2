@@ -217,7 +217,7 @@ img { display: block; max-width: 100%; }
 }
 .logo-text strong { font-weight: 800; color: var(--yellow); }
 .logo-white .logo-text, .logo-white .logo-icon { color: var(--white); }
-.logo-white .logo-text strong { color: #ffa07a; }
+.logo-white .logo-text strong { color: #fcd205; }
 
 .search-wrap { flex: 1; max-width: 550px; }
 .search-box {
